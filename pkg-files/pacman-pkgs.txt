@@ -77,6 +77,7 @@ powerline-fonts
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+pulseaudio-jack
 jack2
 lib32-jack2
 jack-example-tools
