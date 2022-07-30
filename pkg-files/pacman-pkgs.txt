@@ -74,9 +74,12 @@ patch
 picom
 pkgconf
 powerline-fonts
-pulseaudio
-pulseaudio-alsa
-pulseaudio-bluetooth
+jack2
+lib32-jack2
+jack-example-tools
+jack2-dbus
+cadence
+jack_mixer
 python-notify2
 python-psutil
 python-pyqt5
@@ -98,9 +101,6 @@ unzip
 virt-manager
 virt-viewer
 which
-wine-gecko
-wine-mono
-winetricks
 zip
 zsh
 zsh-syntax-highlighting
