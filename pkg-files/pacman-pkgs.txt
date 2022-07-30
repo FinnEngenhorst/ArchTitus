@@ -74,6 +74,9 @@ patch
 picom
 pkgconf
 powerline-fonts
+pulseaudio
+pulseaudio-alsa
+pulseaudio-bluetooth
 jack2
 lib32-jack2
 jack-example-tools
